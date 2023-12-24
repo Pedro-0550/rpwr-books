@@ -10,7 +10,7 @@ On the left part:
 - ROD MOV (rod movement) - allows to manually withdraw or insert the control rods
 - MOVE SPD (movement speed) - allows to change how quickly rods move (slow/medium/fast)
 - MODE SEL (mode selector) - allows to pull all rods at once (ALL) or single, selectable groups of rods (GROUP)
-- AUTO BLNC (automaric balancer) - automatically balances power output between individual groups of rods
+- AUTO BLNC (automatic balancer) - automatically balances power output between individual groups of rods
 - AUTO MODE (autocontrol mode) - allows to chose whether autocontrol should use rods or boric acid injection
 - BORIC ACID (boric acid) - allows to manually inject boric acid into the core or dilute with water
 
